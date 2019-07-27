@@ -1,0 +1,11 @@
+C:\Users\mosto\source\repos\Microwave\bin\Debug\netcoreapp2.2\Microwave.deps.json
+C:\Users\mosto\source\repos\Microwave\bin\Debug\netcoreapp2.2\Microwave.runtimeconfig.json
+C:\Users\mosto\source\repos\Microwave\bin\Debug\netcoreapp2.2\Microwave.runtimeconfig.dev.json
+C:\Users\mosto\source\repos\Microwave\bin\Debug\netcoreapp2.2\Microwave.dll
+C:\Users\mosto\source\repos\Microwave\bin\Debug\netcoreapp2.2\Microwave.pdb
+C:\Users\mosto\source\repos\Microwave\obj\Debug\netcoreapp2.2\Microwave.csprojAssemblyReference.cache
+C:\Users\mosto\source\repos\Microwave\obj\Debug\netcoreapp2.2\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\mosto\source\repos\Microwave\obj\Debug\netcoreapp2.2\Microwave.AssemblyInfoInputs.cache
+C:\Users\mosto\source\repos\Microwave\obj\Debug\netcoreapp2.2\Microwave.AssemblyInfo.cs
+C:\Users\mosto\source\repos\Microwave\obj\Debug\netcoreapp2.2\Microwave.dll
+C:\Users\mosto\source\repos\Microwave\obj\Debug\netcoreapp2.2\Microwave.pdb
